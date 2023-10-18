@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github User Application</string>
+    <string name="searchbar">Search GitHub Users</string>
+    <string name="Follower">%d Followers</string>
+    <string name="Following">%d Following</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="about">About</string>
+    <string name="name">Fadhl Al-Hafizh</string>
+    <string name="bangkitemail">a283bsy2466@bangkit.academy</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="theme">Theme</string>
+    <string name="profile"> Profile Pembuat</string>
+</resources>

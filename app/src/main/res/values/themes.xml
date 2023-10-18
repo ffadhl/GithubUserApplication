@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUserApplication" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="styleName">
+        <item name="android:textColor">@color/boneWhite</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="styleText">
+        <item name="android:textColor">@color/boneWhite</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="BackgroundColor">
+        <item name="android:background">@color/boneWhite</item>
+    </style>
+
+    <style name="TabLayer">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="NamaPembuat">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Theme.GithubUserApplication" parent="Base.Theme.GithubUserApplication" />
+</resources>

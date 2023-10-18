@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_fav"
+        android:icon="@drawable/ic_favdarkblue"
+        android:title="@string/favorite"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@drawable/ic_profile_darkblue"
+        android:title="@string/profile"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_themesetting"
+        android:icon="@drawable/icon_setting_darkblue"
+        android:title="@string/theme"
+        app:showAsAction="always" />
+
+
+</menu>
